@@ -28,7 +28,3 @@ Nesses gráficos de pizza estão demonstradas a média de todos candidatos por m
 <h1 align="center"> Nota de linguagens por renda familiar </h1>
 Nesse gráfico de linhas deixa explícito que a nota de linguagens aumenta conforme a renda familiar também seja maior.
 ![Renda Familiar e Nota Linguagens](https://user-images.githubusercontent.com/60628919/115471703-c8f9fb80-a20e-11eb-903c-1540b699555d.png)
-
-
-
-
