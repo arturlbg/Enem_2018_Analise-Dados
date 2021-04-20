@@ -19,4 +19,7 @@ O dataset do enem também apresenta a renda média dos candidatos, e pessoas com
 
 <h1 align="center"> Renda familiar e média </h1>
 
+![Estado e nota da redação](https://user-images.githubusercontent.com/60628919/115467830-8503f800-a208-11eb-9a0a-d4fda0e233f7.png)
+
+
 
