@@ -45,6 +45,9 @@ Nesse gráfico de linhas deixa explícito que a nota de linguagens aumenta confo
 
 ![Renda Familiar e Nota Linguagens](https://user-images.githubusercontent.com/60628919/115471703-c8f9fb80-a20e-11eb-903c-1540b699555d.png)
 
+<h1 align="center">Gráfico de renda familiar e nota média </h1>
 
+Nesse gráfico observamos que conforme a renda familiar da familia do candidato aumenta, sua média também aumenta, concluindo que familias com mais condições financeiras obtém melhores notas.
 
+![Grafico Renda Familiar e Nota Media](https://user-images.githubusercontent.com/60628919/133702101-146f4a7e-61a0-4f66-8a00-c7aa805ed6ee.png)
 
